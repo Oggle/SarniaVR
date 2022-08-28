@@ -53,6 +53,10 @@
 		{
 			"Name": "MIDIDevice",
 			"Enabled": true
+		},
+		{
+			"Name": "SoundUtilities",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
